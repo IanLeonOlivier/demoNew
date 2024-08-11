@@ -1,6 +1,0 @@
-on: push
-jobs:
-  test_job:
-    runs-on: windows-latest
-    steps:
-      -echo "Running tests..."
